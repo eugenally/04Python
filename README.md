@@ -1,4 +1,5 @@
-# PythonStudy1
 # 04Python
-# 04Python
-# 04Python
+| 이름 | 나이 | 직업 |
+|---|---|---|
+| 홍길동 | 10 | 개발자 |
+
