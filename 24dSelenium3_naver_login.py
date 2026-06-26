@@ -40,5 +40,9 @@ time.sleep(10)
 24dSelenium3_naver_login.py
 
 Xpath
-//*[@id="account"]/div/a
+//*[@id="account"]/div/
+a
+
+//*[@id="body-content"]/div[7]/a[1]
+//*[@id="body-content"]/div[7]/a[2]
 '''
